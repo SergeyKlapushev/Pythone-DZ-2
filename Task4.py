@@ -5,5 +5,5 @@ print('Введите число:')
 n = int(input())
 i = 0
 while 2**i < n:
-    print(i)
+    print(i) 
     i += 1
